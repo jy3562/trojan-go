@@ -8,10 +8,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/p4gefau1t/trojan-go/common"
-	"github.com/p4gefau1t/trojan-go/config"
-	"github.com/p4gefau1t/trojan-go/log"
-	"github.com/p4gefau1t/trojan-go/tunnel"
+	"github.com/jy3562/trojan-go/common"
+	"github.com/jy3562/trojan-go/config"
+	"github.com/jy3562/trojan-go/log"
+	"github.com/jy3562/trojan-go/tunnel"
 )
 
 const Name = "PROXY"
