@@ -5,12 +5,12 @@ package nat
 import (
 	"context"
 
-	"github.com/p4gefau1t/trojan-go/common"
-	"github.com/p4gefau1t/trojan-go/config"
-	"github.com/p4gefau1t/trojan-go/proxy"
-	"github.com/p4gefau1t/trojan-go/proxy/client"
-	"github.com/p4gefau1t/trojan-go/tunnel"
-	"github.com/p4gefau1t/trojan-go/tunnel/tproxy"
+	"github.com/jy3562/trojan-go/common"
+	"github.com/jy3562/trojan-go/config"
+	"github.com/jy3562/trojan-go/proxy"
+	"github.com/jy3562/trojan-go/proxy/client"
+	"github.com/jy3562/trojan-go/tunnel"
+	"github.com/jy3562/trojan-go/tunnel/tproxy"
 )
 
 const Name = "NAT"
