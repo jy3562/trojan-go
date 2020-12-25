@@ -1,6 +1,6 @@
 package proxy
 
-import "github.com/p4gefau1t/trojan-go/config"
+import "github.com/jy3562/trojan-go/config"
 
 type Config struct {
 	RunType  string `json:"run_type" yaml:"run-type"`
